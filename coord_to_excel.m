@@ -1,7 +1,7 @@
 %%%Read .COORD LCModel file and write the selected values in an Excel
 %%%file%%
 %TO UPDATE%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-phi_values=[20 0 45 90 135 180 225 270 315 360];
+phi_values=[1 0 45 90 135 180 225 270 315 360];
 
 %%%To update: Excel file name%%%
 NameExcel='';
