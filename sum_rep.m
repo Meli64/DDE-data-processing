@@ -1,7 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This script sums individual repetition after performing  frequency and
 % phase correction
-% JV september 2009
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %ref= reference spectrum for phase and frequency correction, here, the sum
 %of all repetitions without correction between the metab_inf and metab_sup bounds 
