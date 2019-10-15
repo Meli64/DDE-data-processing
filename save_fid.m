@@ -1,6 +1,5 @@
 %========================================================================
-% Spectra reconstruction from FID
-% J. Valette, C. Giraudeau, 11/2008, CEA/DSV/I2BM/NEUROSPIN/ISEULT
+% Save FID in LCModel compatible format
 %========================================================================
 
 function save_fid(FID, phi0,PathName)
