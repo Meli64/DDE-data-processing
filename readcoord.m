@@ -1,5 +1,4 @@
 % read .COORD file and plot data
-% PGH Oct 2001
 % INPUT PARAMETER : filename
 % OUTPUT PARAMETER : lcmodelresults structure
 %       spectrumppm             : ppm values
