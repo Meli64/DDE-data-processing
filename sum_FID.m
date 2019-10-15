@@ -1,7 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Sum of spectra after phase and frequency correction relative to a
 %reference spectrum
-% JV september 2009
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [fid_sum]=sum_FID(fid_1,fid_2,fid_sum_init);
 
@@ -12,7 +11,7 @@ dw=1/5000;
 
 lb=8; % lb for phase correction only, not on the final fid
 
-metab_inf=3100; %mainly used for metabolites
+metab_inf=3100; 
 metab_sup=3300;
 
 metab_inf_noise=300;
