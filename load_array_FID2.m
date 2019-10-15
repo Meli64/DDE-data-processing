@@ -16,12 +16,6 @@ nb_pts_to_remove=68;
 
 currentdir=pwd;
 
-%cd /neurospin/iseult/julien_V
-
-%cd('D:\Documents and Settings\jv201216\Bureau\CEA');
-
-%[FileName,PathName] = uigetfile('*.*',text);
-%signal_input = fullfile( PathName, FileName ) ;
 openMRI = fopen(File_Name,'r');
 
 if (openMRI < 0)
